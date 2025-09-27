@@ -42,7 +42,7 @@ EnergyEfficiency2/
 
 ## How to Run
 1.	Clone the repository:
-2.	git clone https://github.com/lorietta5/EnergyEfficiency2.git
+2.	git clone https://github.com/Lorietta5/EnergyEfficiency_Project.git
 3.	cd EnergyEfficiency2/notebooks
 4.	Open EnergyEfficiency_Project.ipynb in Jupyter Notebook / JupyterLab.
 5.	Ensure that ENB2012_data.xlsx is located inside the notebooks/ folder.
